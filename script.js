@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* ───────────────────────────────────────────────
    script.js  –  Ayush's Portfolio
 ─────────────────────────────────────────────── */
@@ -698,4 +698,4 @@ if (window.matchMedia('(pointer:fine)').matches) {
     glow.style.top  = e.clientY + 'px';
   });
 }
->>>>>>> a9f546843f9828846e4f4d0ded482dd0bcd8017b
+
